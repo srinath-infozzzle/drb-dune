@@ -1,0 +1,107 @@
+{
+  "type": "en",
+  "welcome": "Welcome",
+  "login": "Login",
+  "logout": "Logout",
+  "schedule": {
+    "date": "15 December to 15 April",
+    "time": "9 AM to 3 AM"
+  },
+  "location_link": "/images/map.png",
+  "address": {
+    "description1": "Blending heritage and adventure, this exceptional experience awaits you in the magical desert of Riyadh.",
+    "description2": "Discover the essence of Saudi authenticity and embrace the spirit of adventure in the heart of the desert. 'Dunes of Arabia' offers a unique experience for all ages, blending excitement, entertainment, and culture. Immerse yourself in four distinct zones: the Heritage Village, Kids Oasis, Adventure & Entertainment, and the Camping & Domes. Create memories that will last a lifetime."
+  },
+  "explore": {
+    "explore": "Explore",
+    "items": [
+      {
+        "id": 1,
+        "title": "Card 1",
+        "imgSrc": "/images/exp-52.png",
+        "description": "Fresh",
+        "link": "#heritage"
+      },
+      {
+        "id": 2,
+        "title": "Card 2",
+        "imgSrc": "/images/exp-12.png",
+        "description": "Bold",
+        "link": "https://tickets.dunesofarabia.com/event/adventure-and-entertainment-zone"
+      },
+      {
+        "id": 3,
+        "title": "Card 3",
+        "imgSrc": "/images/exp-32.png",
+        "description": "Bold",
+        "link": "https://tickets.dunesofarabia.com/event/drb-experience-center"
+      },
+      {
+        "id": 4,
+        "title": "Card 4",
+        "imgSrc": "/images/exp-42.png",
+        "description": "Bold",
+        "link": "https://tickets.dunesofarabia.com/event/kids-oasis"
+      },
+      {
+        "id": 5,
+        "title": "Card 5",
+        "imgSrc": "/images/exp-22.png",
+        "description": "Bold",
+        "link": "https://tickets.dunesofarabia.com/event/domes-and-day-camp"
+      }
+    ]
+  },
+  "adventure": {
+    "title": "Adventure Zone",
+    "description": "For all thrill-seekers and action lovers, this zone is home to activities that give you the ultimate adrenaline rush! From exciting buggy rides  and dune bashing on the magical desert dunes, all the way to the particular skills of archery, axe throwing, and precision shooting, there’s a quest for every adventurer! ",
+    "find_out_more_btn": "Book Now"
+  },
+  "heritage": {
+    "title": "Heritage Village",
+    "title2": "Kids Oasis",
+    "description1": "Step into the enchanting Heritage Village, an experience of true Saudi hospitality,  where the past and present intertwine in a celebration of Saudi culture and history. ",
+    "description2": "The world of adventure and exploration awaits, as children step into a realm of imagination and creativity! Activating  their senses and sparking curiosity, these activities are crafted to entertain while fostering skill development and growth within a safe, yet exciting environment.  ",
+    "find_out_more_btn_heritage": "Free Entry",
+    "find_out_more_btn_oasis": "Book Now"
+  },
+  "dbr": {
+    "title": "DRB Experience Center",
+    "description": "An infusion of Saudi heritage and modern art, this space invites everyone to appreciate the nuanced details of Saudi originality in a contemporary and unique setting.",
+    "find_out_more_btn": "Book Now"
+  },
+  "tickets": {
+    "title": "Get your tickets",
+    "category": {
+      "weekly": "One Day",
+      "family": "Family",
+      "oneday": "Weekly Pass"
+    }
+  },
+  "activities": {
+    "title": "Book Your Zone",
+    "bt_name1": "Adventure & Entertainment",
+    "bt_name2": "Camping & Domes",
+    "bt_name3": "DRB Experience Center",
+    "bt_name4": "Heritage Village",
+    "bt_name5": "Kids Oasis"
+  },
+  "form": {
+    "title": "Book Your Corporate Events & Experiences",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "name": "Name",
+    "email": "Email",
+    "phone": "Phone",
+    "send_message": "Send Message",
+    "submit_button": "Book Your Business Experience"
+  },
+  "footer": {
+    "privacy_policy": "PRIVACY POLICY",
+    "terms_conditions": "TERMS & CONDITIONS"
+  },
+  "camping": {
+    "book_our_dome_btn": "Book Your Dome",
+    "title": "Camping & Domes",
+    "description": "Listen to the hushed sounds of the dunes in the Dome camp  area, as you spend a day in nature’s calm embrace, and end your night under the desert’s star-studded skies."
+  }
+}

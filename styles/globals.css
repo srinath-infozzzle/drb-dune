@@ -1,0 +1,68 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* :root {
+  --background: #ffffff;
+  --foreground: #171717;
+} */
+
+:root {
+  --font-ibm-plex-sans: "IBM Plex Sans", sans-serif;
+  --font-ibm-plex-mono: "IBM Plex Mono", monospace;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font-ibm-plex-sans);
+  background: black;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+/* body {
+  color: var(--foreground);
+  background:black;
+  font-family: Arial, Helvetica, sans-serif;
+} */
+
+.hidescroll {
+  overflow: scroll; /* Enable scrolling */
+  scrollbar-width: thin; /* Firefox-specific */
+  scrollbar-color: transparent transparent; /* Firefox-specific */
+}
+
+.hidescroll::-webkit-scrollbar {
+  width: 0; /* Hide scrollbar for Webkit browsers (Chrome, Safari, Edge) */
+}
+
+.hidescroll::-webkit-scrollbar-thumb {
+  background: transparent; /* Make the thumb invisible */
+}
+.lang-ar .location-section {
+  direction: rtl;
+}
+.lang-en .adventure-zone {
+  direction: ltr;
+}
+
+@media (max-width: 600px) {
+  .lang-en .heritage-section h1,
+  .lang-en .experience-section h1 {
+    text-align: left;
+  }
+  .lang-en .heritage-section h1,
+  .lang-en .experience-section h1,
+  .lang-en .camping-section h1,
+  .lang-en .booking-section h1 {
+    font-weight: 600;
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "type": "en",
+  "welcome": "Welcome",
+  "login": "Login",
+  "logout": "Logout",
+  "address": {
+    "description1": "Blending heritage and adventure, this exceptional experience awaits you in the magical desert of Riyadh.",
+    "description2": "Discover the essence of Saudi authenticity and embrace the spirit of adventure in the heart of the desert. 'Dunes of Arabia' offers a unique experience for all ages, blending excitement, entertainment, and culture. Immerse yourself in four distinct zones: the Heritage Village, Kids Oasis, Adventure & Entertainment, and the Camping & Domes. Create memories that will last a lifetime."
+  },
+  "explore": {
+    "explore": "Explore"
+  },
+  "adventure": {
+    "title": "Adventure Zone",
+    "description": "ignissim, metus nec fringilla accumsan, risus sem sollicitufeugiat lectus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent auctor purus luctus enim egestas, ac scelerisque ante pulvinar. Donec ut rhoncus ex."
+  },
+  "heritage": {
+    "title": "Heritage Village",
+    "title2": "Kids Oasis",
+    "description1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec fringilla accumsan, risus sem sollicitudin lacus, ut interdum tellus elit sed risus. Maecenas eget condimentum velit, sit amet feugiat lectus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent auctor purus luctus enim egestas, ac scelerisque ante pulvinar. Donec ut rhoncus ex.",
+    "description2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec fringilla accumsan, risus sem sollicitudin lacus, ut interdum tellus elit sed risus. Maecenas eget condimentum velit, sit amet feugiat lectus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent auctor purus luctus enim egestas, ac scelerisque ante pulvinar. Donec ut rhoncus ex."
+  },
+  "dbr": {
+    "title": "DRB Experience",
+    "description": "Lorem ipcing elit. Etiam eu turpis nissimisus sem sollicitudin lacus, ut interdum tellus elit sed risus. Maecenas eget condimentum velit, sit amet feugiat lectus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent auctor purus luctus enim egestas, ac scelerisque ante pulvinar. Donec ut rhoncus ex."
+  },
+  "tickets": {
+    "title": "Get your tickets",
+    "category": {
+      "weekly": "One Day",
+      "family": "Family",
+      "oneday": "Weekly Pass"
+    }
+  },
+  "activities": {
+    "title": "Book Your Ticket"
+  },
+  "form": {
+    "title": "Book Your Corporate Events & Experiences",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "name": "Name",
+    "email": "Email",
+    "phone": "Phone",
+    "send_message": "Send Message",
+    "submit_button": "Book Your Business Experience"
+  },
+  "footer": {
+    "privacy_policy": "PRIVACY POLICY",
+    "terms_conditions": "TERMS & CONDITIONS"
+  }
+}
