@@ -15,7 +15,7 @@ const Adventure = ({ translations, lang, header }) => {
   const buttonLink = translations.Button.Link; 
   
   return (
-    <section className="text-white px-4 lg:px-28 pb-20 overflow-hidden 2xl:px-40">
+    <section className="text-white px-4 lg:px-28 test pb-20 overflow-hidden 2xl:px-40">
       {/* Previous sections remain the same */}
       <div className="flex justify-center pb-40 ">
         <div className="w-[441px] h-[198px] max-md:w-[212px] max-md:h-[100px]">
